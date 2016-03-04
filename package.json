@@ -1,0 +1,24 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Free Code Camp project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs --harmony server.js --harmony_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphashuro/Timestamp-microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphashuro/Timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/alphashuro/Timestamp-microservice#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
