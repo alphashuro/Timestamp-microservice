@@ -1,5 +1,7 @@
 'use strict';
 
+const encoder = require('encoder.js');
+
 module.exports = function(query) {
   let value = encoder.decodeURI(query);
   let date;

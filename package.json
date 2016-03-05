@@ -1,11 +1,11 @@
 {
   "name": "@alphashuro/timestamp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Free Code Camp project",
   "main": "server.js",
   "scripts": {
     "test": "ava",
-    "start": "node --harmony server.js --harmony_modules"
+    "start": "node --harmony server.js"
   },
   "repository": {
     "type": "git",
